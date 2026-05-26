@@ -1,6 +1,3 @@
-# H1D024024-PraktikumKB-Pertemuan10
-
-# Algoritma Genetika - Knapsack Problem
 
 Repository ini berisi implementasi Algoritma Genetika untuk menyelesaikan kasus Knapsack Problem pada Praktikum Kecerdasan Buatan Pertemuan 10.
 
