@@ -283,36 +283,6 @@ Kromosom terbaik:
 ```python
 [0,1,0,1,1]
 ```
-
----
-
-# Grafik Fitness
-
-Program menampilkan grafik perkembangan fitness setiap generasi.
-
-Keterangan warna:
-- Biru → Fitness tertinggi
-- Merah → Fitness rata-rata
-- Kuning → Fitness terendah
-
-Grafik menunjukkan perkembangan kualitas solusi selama proses evolusi.
-
----
-
-# Cara Menjalankan Program
-
-Install library matplotlib:
-
-```bash
-pip install matplotlib
-```
-
-Jalankan program:
-
-```bash
-python main.py
-```
-
 ---
 
 # Kesimpulan
